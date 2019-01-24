@@ -1,8 +1,7 @@
 % =========================================================================
-%   {rjbcs,scrps}@cin.ufpe.br     
 % Código desenvolvido para a disciplina de Tópicos Avançados em Mídias e
 % Interfaces.
-% 
+% Autores: {rjbcs,scrps}@cin.ufpe.br     
 % =========================================================================
 
 clear all; 
